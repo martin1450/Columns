@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1553260403 source:/home/mqb6/Escritorio/Columns/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Juego.h"
+	"Piezas.h"
+	"Bloque.h"
+
+1553259363 /home/mqb6/Escritorio/Columns/include/Juego.h
+	"Bloque.h"
+	"Piezas.h"
+	<SFML/Graphics.hpp>
+
+1553252025 /home/mqb6/Escritorio/Columns/include/Piezas.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<cstdlib>
+
+1553261195 source:/home/mqb6/Escritorio/Columns/src/Juego.cpp
+	"Juego.h"
+	<iostream>
+	"Bloque.h"
+	"Piezas.h"
+
+1553143440 source:/home/mqb6/Escritorio/Columns/src/Piezas.cpp
+	"Piezas.h"
+
+1553259096 /home/mqb6/Escritorio/Columns/include/Bloque.h
+	"Piezas.h"
+
+1553259149 source:/home/mqb6/Escritorio/Columns/src/Bloque.cpp
+	"Bloque.h"
+	"Piezas.h"
+	<iostream>
+	<ctime>
+
